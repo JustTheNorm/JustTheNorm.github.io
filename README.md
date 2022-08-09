@@ -1,2 +1,2 @@
 # JustTheNorm.github.io
- First Site
+ First Site!
