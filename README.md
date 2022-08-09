@@ -1,2 +1,0 @@
-# JustTheNorm.github.io
-Website
